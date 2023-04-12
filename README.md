@@ -7,6 +7,5 @@ Curso <b>Convolutional Neural Networks in TensorFlow</b> disponibilizado pela De
 - TensorFlow;
 - Keras
 
-
 ###  Verificação
-- 
+- Código Credencial: https://coursera.org/verify/APD37VTY5V75
